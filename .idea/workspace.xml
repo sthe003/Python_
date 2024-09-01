@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ed1d305-5267-4fe7-b523-8af103b1336c" name="Changes" comment="first commit">
+      <changelist_data name="sthe003" email="" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasCondicionais/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasCondicionais/anoBissexto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasCondicionais/belohorizonte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasCondicionais/calculadoraSimples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasCondicionais/classificacaoIdade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasCondicionais/maiorNumero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasCondicionais/negativoOuPositivo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasCondicionais/notaEscolar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasCondicionais/parOuImpar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasDeDados/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasDeDados/arvore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasDeDados/dicionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasDeDados/listasMultiplas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EstruturasDeDados/pilhas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LacosDeRepeticao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LacosDeRepeticao/contagemRegressiva.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LacosDeRepeticao/contarNumeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LacosDeRepeticao/fatorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LacosDeRepeticao/numerosPares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LacosDeRepeticao/numerosPrimos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LacosDeRepeticao/somarNumeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LacosDeRepeticao/tabuada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrud/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrud/crud.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sthe003" />
+        <option value="sthefaniefernanda19@gmail.com" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2j5B7aNxFQQmhogh0WxGcESZ6wW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.anoBissexto.executor": "Run",
+    "Python.arvore.executor": "Run",
+    "Python.calculadoraSimples.executor": "Run",
+    "Python.classificacaoIdade.executor": "Run",
+    "Python.contagemRegressiva.executor": "Run",
+    "Python.crud.executor": "Run",
+    "Python.fatorial.executor": "Run",
+    "Python.maiorNumero.executor": "Run",
+    "Python.negativoOuPositivo.executor": "Run",
+    "Python.notaEscolar.executor": "Run",
+    "Python.numerosPares.executor": "Run",
+    "Python.parOuImpar.executor": "Run",
+    "Python.soma.executor": "Run",
+    "Python.somarNumeros.executor": "Run",
+    "Python.tabuada.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/danie/PycharmProjects/pythonLogica",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\danie\PycharmProjects\pythonLogica" />
+      <recent name="C:\Users\danie\PycharmProjects\pythonEstruturasCondicionais\PrimeirosPassos" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ed1d305-5267-4fe7-b523-8af103b1336c" name="Changes" comment="" />
+      <created>1720666890710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720666890710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
